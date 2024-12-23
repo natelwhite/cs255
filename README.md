@@ -1,2 +1,7 @@
-# cs255
-The project I completed for System Analysis and Design
+# DriverPass
+- DriverPass, the client, is seeking a full stack web application that allows student drivers to take driving lessons prior to their driver's test. Core aspects of the system include account management, system flexibility, and data privacy.
+# User's needs
+- As I was desigining this system, I considered both the needs of the users and the needs of the client, DriverPass. These needs are important to system design because they may be the deciding factor for various design decisions. For example, the user of a system at a hospital has a much certain expectation of data privacy than they do when using a fast-food resturaunt's ordering system. Hence why hospitals opt of methods with higher security and fast food resturaunts don't. In general though, it's best to use the right tool for the job. If the tool being used doesn't fullfill either a user or business need, then the tool may not be needed to begin with. My goal with this reserved mentality is to limit the complexity of a system. 
+# Post-mortem
+- I'm most proud of the diagrams I created, especially the UML class diagram. Considering this project was focused on the early stages of development, I think I did a great job at encapsulating the data while having a reasonable amount of inhertiance.
+- If I had to choose one part to revise, I'd choose the UML use case diagram. There are many use cases that I didn't defined, mainly because I kept running out of symbols (LucidChart). Still though, it would be nice to have this document fully fleshed out. For example, I'd like to include a use case for the driver to recieve their paycheck through the platform. 
